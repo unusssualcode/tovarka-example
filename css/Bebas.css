@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('https://backpack.phoenixy.fun/css/subset-Bebas Neue Regular.woff2') format('woff2'),
+        url('https://backpack.phoenixy.fun/css/subset-Bebas Neue Regular.woff') format('woff'),
+        url('https://backpack.phoenixy.fun/css/subset-Bebas Neue Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('../fonts/subset-Bebas%20Neue%20Bold.woff2') format('woff2'),
+        url('https://backpack.phoenixy.fun/css/subset-Bebas Neue Bold.woff') format('woff'),
+        url('https://backpack.phoenixy.fun/css/subset-Bebas Neue Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
